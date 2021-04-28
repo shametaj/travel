@@ -1,0 +1,24 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.tourCard{
+
+    margin-left: 60px;
+}
+
+.sidePanel{
+    margin: 0px 20px auto;
+}
+
+@media only screen and (max-width: 700px) {
+    .wrapper {
+      /* display:flex; */
+      flex-direction: column;
+      
+    }
+
+    
+  }

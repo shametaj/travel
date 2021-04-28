@@ -1,0 +1,26 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.resCard{
+
+    /* margin-left: 40px; */
+    /* flex-grow: 2; */
+}
+
+.sidePanel{
+    margin: 0px 20px auto;
+}
+
+@media only screen and (max-width: 850px) {
+    .wrapper {
+      /* display:flex; */
+      display: flex;
+      flex-direction: column;
+      
+    }
+
+    
+  }
