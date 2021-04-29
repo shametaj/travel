@@ -100,7 +100,7 @@ class footer extends Component {
   </div>
 </div>
 </div>
-  <div className="footer-copyright text-center py-2">© 2020 Copyright: All rights reserved
+  <div className="footer-copyright text-center py-2">© 2021 Copyright: All rights reserved
   </div>
  
 
