@@ -13,10 +13,10 @@ const Faq = (props) => {
     },
 
     {
-        heading : "Suggestion and tips",
+        heading : "Suggestions & tips",
         questions: [
             {title: "Anim pariatur cliche reprehenderit?", description: text, isOpen: false},
-            {title: "Parsnip lotus root celery?", description: text, isOpen: false},
+            {title: "Parsnip Lotus root celery?", description: text, isOpen: false},
             {title: "Beet greens peanut salad?", description: text, isOpen: false}
         ]
     }
