@@ -35,7 +35,7 @@ const carousel = () => {
           </MDBView >
 
           <MDBCarouselCaption >
-            <h1 className="h1-responsive "><strong>VISITING THE BRANDENBURG GATE</strong></h1>
+            <h1 className="h1-responsive "><strong>VISITING PARIS</strong></h1>
             <p>Discover hidden wonders on trips by SpaceBlink Tours Experts</p>
           </MDBCarouselCaption>
 
@@ -51,7 +51,7 @@ const carousel = () => {
           {/* <MDBMask overlay="black-strong" /> */}
           </MDBView>
           <MDBCarouselCaption>
-            <h1 className="h1-responsive"><strong>LOVE BERLIN </strong></h1>
+            <h1 className="h1-responsive"><strong>LOVE PARIS </strong></h1>
             <p>Discover hidden wonders on trips by SpaceBlink Tours Experts</p>
           </MDBCarouselCaption>
         </MDBCarouselItem>
@@ -65,7 +65,7 @@ const carousel = () => {
           {/* <MDBMask overlay="black-slight" /> */}
           </MDBView>
           <MDBCarouselCaption>
-            <h1 className="h1-responsive"><strong>DISCOVER GERMANY</strong></h1>
+            <h1 className="h1-responsive"><strong>DISCOVER EUROPE</strong></h1>
             <p>Discover hidden wonders on trips by SpaceBlink Tours Experts</p>
           </MDBCarouselCaption>
         </MDBCarouselItem>
