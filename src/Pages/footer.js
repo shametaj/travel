@@ -20,7 +20,7 @@ class footer extends Component {
 
           <MDBCol >
             <h4 className="title "> <strong>Need Help ? </strong></h4> <br/>
-            <MDBIcon icon="phone-volume fa-2x " /> <strong> +45 423 445 99 </strong> <br/><br/>
+            <MDBIcon icon="phone-volume fa-2x " /> <strong> +49 1723032910 </strong> <br/><br/>
             <MDBIcon far icon="envelope fa-2x" /> <strong>  help@spaceBlink.com </strong>
           </MDBCol>
 
@@ -100,7 +100,7 @@ class footer extends Component {
   </div>
 </div>
 </div>
-  <div className="footer-copyright text-center py-2">© 2021 Copyright: All rights reserved
+  <div className="footer-copyright text-center py-2">© 2021 Copyright: Created with love by Taulant
   </div>
  
 
